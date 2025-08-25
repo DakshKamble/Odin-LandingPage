@@ -63,6 +63,7 @@ a {
    gap: 300px;
 }
 .introduction .left{
+    width: 500px;
     display: flex;
     flex-direction: column;
 }
